@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LeviLab</string>
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_log">سجل التشغيل</string>
+    <string name="tab_probe">Probe</string>
+    <string name="detect">اكتشاف اللعبة</string>
+    <string name="prepare">تجهيز المكتبات والتحقق منها</string>
+    <string name="launch">تشغيل اللعبة المثبّتة</string>
+    <string name="experimental">تجريبي: تحميل داخل العملية</string>
+    <string name="exp_warn">تجريبي. قد ينهار التطبيق. لا يُفترض النجاح أبداً: راجع السجل.</string>
+    <string name="exp_confirm">تشغيل التحميل التجريبي؟</string>
+    <string name="run">تشغيل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="copy_log">نسخ السجل</string>
+    <string name="share_log">مشاركة</string>
+    <string name="clear">مسح</string>
+    <string name="run_probe">تشغيل الفحص</string>
+    <string name="not_found">لم يُعثر على ماينكرافت (Preview أو Release). تحقق من اسم الحزمة و queries.</string>
+</resources>

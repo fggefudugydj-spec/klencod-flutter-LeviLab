@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LeviLab</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_log">Launch log</string>
+    <string name="tab_probe">Probe</string>
+    <string name="detect">Detect game</string>
+    <string name="prepare">Prepare and verify libraries</string>
+    <string name="launch">Launch installed game</string>
+    <string name="experimental">Experimental: in-process load</string>
+    <string name="exp_warn">Experimental. May crash this app. Success is never assumed: see the log.</string>
+    <string name="exp_confirm">Run the experimental load?</string>
+    <string name="run">Run</string>
+    <string name="cancel">Cancel</string>
+    <string name="copy_log">Copy log</string>
+    <string name="share_log">Share</string>
+    <string name="clear">Clear</string>
+    <string name="run_probe">Run probe</string>
+    <string name="not_found">Minecraft (Preview or Release) was not found. Check the package name and queries.</string>
+</resources>
